@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Acerca
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
+featuredImage: https://ucarecdn.com/d8b67884-9d91-480d-b09e-d8d496b82761/
 subtitle: This is the components page subtitle.
 section1: >-
   ## El Ex-convento de Capuchinas
