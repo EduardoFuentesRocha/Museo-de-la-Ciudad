@@ -1,7 +1,7 @@
 ---
 template: DefaultPage
-slug: Test
-title: Default
+slug: Default
+title: Test
 featuredImage: https://ucarecdn.com/e3d14cf5-6a9b-4074-9d75-8e2ba4dd7113/
 meta:
   description: test meta description
