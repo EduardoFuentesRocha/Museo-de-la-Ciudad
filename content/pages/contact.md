@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contacto
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+featuredImage: https://ucarecdn.com/f3d51c40-6f2e-4c2f-bcfe-80b344156a13/
 subtitle: This is the contact page subtitle.
 address: Calle Vicente Guerrero Nte. 27, Centro, 76000 Santiago de Querétaro, Querétaro.
 phone: (442) 212-4702
