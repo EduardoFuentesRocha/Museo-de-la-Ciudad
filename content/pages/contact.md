@@ -3,7 +3,7 @@ template: ContactPage
 slug: contact
 title: Contacto
 featuredImage: https://ucarecdn.com/f3d51c40-6f2e-4c2f-bcfe-80b344156a13/
-subtitle: This is the contact page subtitle.
+subtitle: Q﻿ueremos saber de ti.
 address: Calle Vicente Guerrero Nte. 27, Centro, 76000 Santiago de Querétaro, Querétaro.
 phone: (442) 212-4702
 email: museodelaciudadqro@gmail.com
@@ -12,8 +12,8 @@ locations:
     lng: "153.2432449"
     mapLink: ""
 meta:
-  description: This is a meta description.
-  title: Contact Page
+  description: Queremos saber de ti.
+  title: Contacto
 ---
 # Example contact form
 
