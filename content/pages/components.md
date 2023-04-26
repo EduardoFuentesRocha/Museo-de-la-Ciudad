@@ -3,7 +3,8 @@ template: ComponentsPage
 slug: components
 title: Acerca
 featuredImage: https://ucarecdn.com/d8b67884-9d91-480d-b09e-d8d496b82761/
-subtitle: This is the components page subtitle.
+subtitle: Museo en una histórica mansión barroca con eventos para niños,
+  exhibiciones, y talleres sobre arte y cultura.
 section1: >-
   ## El Ex-convento de Capuchinas
 
