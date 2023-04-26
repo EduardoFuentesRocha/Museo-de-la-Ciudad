@@ -3,7 +3,8 @@ template: HomePage
 slug: ""
 title: Museo de la Ciudad
 featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
-subtitle: " Welcome to the ultimate Gatsby and Netlify starter project."
+subtitle: El Museo de la Ciudad es un foro comunitario donde un sinfín de
+  expresiones culturales suceden al mismo tiempo.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
