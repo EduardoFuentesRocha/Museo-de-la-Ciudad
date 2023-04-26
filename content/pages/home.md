@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Museo de la Ciudad
-featuredImage: https://ucarecdn.com/cf941565-de10-42d7-beca-4fe5b23e40f0/
+featuredImage: https://ucarecdn.com/908dd8bf-e901-4556-a4e9-8fac2afe30bc/
 subtitle: El Museo de la Ciudad es un foro comunitario donde un sinfín de
   expresiones culturales suceden al mismo tiempo.
 meta:
