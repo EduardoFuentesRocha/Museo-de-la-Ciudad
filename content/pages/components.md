@@ -1,16 +1,14 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
+title: Acerca
 featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
 subtitle: This is the components page subtitle.
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  ## El Ex-convento de Capuchinas
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  Desde el 14 de febrero de 1997, el inmueble del ex convento de San José de Gracia de Religiosas Capuchinas asumió una vocación de carácter público, al recibir al Museo de la Ciudad, centro cultural perteneciente al Instituto Queretano de la Cultura y las Artes, y cuya misión privilegia la divulgación del arte contemporáneo. Es con este perfil que el museo ha marcado estilos de oferta cultural, en donde priva la diversidad y la tolerancia dando lugar a una continua muestra de exposiciones pictóricas, fotográficas, escultóricas; obras de teatro, danza; recitales de música; así como propuestas de performance e instalación y muchas actividades intelectuales más. Propiamente, el Museo de la Ciudad es punto de reunión de inquietudes.
 section2: >-
   ## You can use videos, images and text.
 
