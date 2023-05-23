@@ -28,15 +28,20 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/a53ae5ba-85f0-4fe4-8f08-7070996dee33/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/2fbafab2-e225-4be5-8d62-ab135af2fc50/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/0db980e9-7c70-45e3-8bfe-2e6fd86b6e04/
-    title: Yellow Ice Cream
+  - image: https://ucarecdn.com/0cfab978-d4ea-49f7-a0d2-512d19b612c4/
+    alt: "1"
+  - image: https://ucarecdn.com/30a7804b-39e9-4d0b-8c50-28a5b96aaf4d/
+    alt: "2"
+  - image: https://ucarecdn.com/11160a04-9c95-49aa-9813-58676c3b6a31/
+    alt: "3"
+  - image: https://ucarecdn.com/2deaa94b-3529-4d5b-a533-bf296f0e704e/
+    alt: "4"
+  - image: https://ucarecdn.com/410e6791-6ae1-4270-8e45-c6fd9a9d24f5/
+    alt: "5"
+  - image: https://ucarecdn.com/0b729e3c-e60b-4002-b2a8-854e62060458/
+    alt: "6"
+  - image: https://ucarecdn.com/57bcce95-fccc-43d3-a872-8d4f7b2da414/
+    alt: "7"
 meta:
   description: Centro cultural perteneciente al Instituto Queretano de la Cultura
     y las Artes, y cuya misión privilegia la divulgación del arte contemporáneo.
